@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsNetCoreWebApiApp", "SportsNetCoreWebApiApp.csproj", "{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE7B475-4932-40EA-BDD5-9A00A4D6C783}
+	EndGlobalSection
+EndGlobal
