@@ -182,7 +182,7 @@ namespace SportsNetCoreWebApiApp.Controllers
     // [Route("api/[controller]")]
     [ApiVersion("2.0")]
     // [Route("v{v:apiVersion}/products2")]
-    [Route("products")]
+    [Route("products2")]
     [ApiController]
     public class ProductsV2Controller : ControllerBase
     {

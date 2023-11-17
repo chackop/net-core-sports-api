@@ -34,7 +34,7 @@ builder.Services.AddApiVersioning(options =>
     // options.ApiVersionReader = new HeaderApiVersionReader("X-API-Version");
 }).AddApiExplorer(options =>
 {
-    // Resolve swagger version conflict
+    // Chaining based on lib chaneg to resolve swagger version conflict
     options.GroupNameFormat = "'v'VVV";
     options.SubstituteApiVersionInUrl = true;
 });
@@ -56,6 +56,10 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}
+else
+{
+    app.UseHsts();
 }
 
 app.UseHttpsRedirection();
