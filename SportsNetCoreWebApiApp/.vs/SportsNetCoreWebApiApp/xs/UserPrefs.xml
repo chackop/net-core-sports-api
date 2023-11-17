@@ -1,3 +1,33 @@
 ﻿<Properties StartupConfiguration="{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductController.cs">
+    <Files>
+      <File FileName="Controllers/ProductController.cs" Line="66" Column="10" />
+      <File FileName="Program.cs" />
+      <File FileName="Models/ShopContext.cs" />
+      <File FileName="Models/ModelBuilderExtensions.cs" />
+      <File FileName="Models/Category.cs" />
+      <File FileName="Models/Product.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SportsNetCoreWebApiApp">
+            <Node name="SportsNetCoreWebApiApp" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SportsNetCoreWebApiApp PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
