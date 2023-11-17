@@ -30,15 +30,15 @@ builder.Services.AddApiVersioning(options =>
     options.DefaultApiVersion = new ApiVersion(1, 0);
     options.AssumeDefaultVersionWhenUnspecified = true;
 
-    options.ApiVersionReader = new QueryStringApiVersionReader("hps-api-version");
-    //options.ApiVersionReader = new HeaderApiVersionReader("X-API-Version");
+    options.ApiVersionReader = new QueryStringApiVersionReader("api-version");
+    // options.ApiVersionReader = new HeaderApiVersionReader("X-API-Version");
+}).AddApiExplorer(options =>
+{
+    // Resolve swagger version conflict
+    options.GroupNameFormat = "'v'VVV";
+    options.SubstituteApiVersionInUrl = true;
 });
 
-// builder.Services.AddVersionedApiExplorer(options =>
-// {
-//     options.GroupNameFormat = "'v'VVV";
-//     options.SubstituteApiVersionInUrl = true;
-// });
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

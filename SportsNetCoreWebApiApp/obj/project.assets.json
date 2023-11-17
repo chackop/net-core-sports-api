@@ -53,6 +53,22 @@
           }
         }
       },
+      "Asp.Versioning.Mvc.ApiExplorer/7.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Asp.Versioning.Mvc": "7.1.0"
+        },
+        "compile": {
+          "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.OpenApi/7.0.11": {
         "type": "package",
         "dependencies": {
@@ -427,6 +443,22 @@
         "icon.png",
         "lib/net7.0/Asp.Versioning.Mvc.dll",
         "lib/net7.0/Asp.Versioning.Mvc.xml"
+      ]
+    },
+    "Asp.Versioning.Mvc.ApiExplorer/7.1.0": {
+      "sha512": "SEqEAeOXH4bP5g5IzdRarmNCrUxbk4pu10zxu57hgnHop7mXikwoDshE1cI4ZcxN7soKLGw2qOgLjJTIim5fiw==",
+      "type": "package",
+      "path": "asp.versioning.mvc.apiexplorer/7.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "asp.versioning.mvc.apiexplorer.7.1.0.nupkg.sha512",
+        "asp.versioning.mvc.apiexplorer.nuspec",
+        "icon.png",
+        "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll",
+        "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.xml"
       ]
     },
     "Microsoft.AspNetCore.OpenApi/7.0.11": {
@@ -1107,6 +1139,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Asp.Versioning.Mvc >= 7.1.0",
+      "Asp.Versioning.Mvc.ApiExplorer >= 7.1.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.11",
       "Microsoft.EntityFrameworkCore >= 7.0.11",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.11",
@@ -1152,6 +1185,10 @@
         "targetAlias": "net7.0",
         "dependencies": {
           "Asp.Versioning.Mvc": {
+            "target": "Package",
+            "version": "[7.1.0, )"
+          },
+          "Asp.Versioning.Mvc.ApiExplorer": {
             "target": "Package",
             "version": "[7.1.0, )"
           },

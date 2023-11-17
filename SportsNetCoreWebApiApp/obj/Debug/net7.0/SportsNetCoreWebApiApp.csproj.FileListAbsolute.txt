@@ -5,6 +5,9 @@
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/SportsNetCoreWebApiApp.runtimeconfig.json
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/SportsNetCoreWebApiApp.dll
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/SportsNetCoreWebApiApp.pdb
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Abstractions.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Http.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Mvc.dll
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -34,6 +37,4 @@
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/SportsNetCoreWebApiApp.pdb
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/SportsNetCoreWebApiApp.genruntimeconfig.cache
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/ref/SportsNetCoreWebApiApp.dll
-/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Abstractions.dll
-/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Http.dll
-/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Mvc.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll

@@ -9,6 +9,7 @@
       "SportsNetCoreWebApiApp/1.0.0": {
         "dependencies": {
           "Asp.Versioning.Mvc": "7.1.0",
+          "Asp.Versioning.Mvc.ApiExplorer": "7.1.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.11",
           "Microsoft.EntityFrameworkCore": "7.0.11",
           "Microsoft.EntityFrameworkCore.InMemory": "7.0.11",
@@ -48,6 +49,17 @@
           "lib/net7.0/Asp.Versioning.Mvc.dll": {
             "assemblyVersion": "7.1.0.0",
             "fileVersion": "7.1.8682.34606"
+          }
+        }
+      },
+      "Asp.Versioning.Mvc.ApiExplorer/7.1.0": {
+        "dependencies": {
+          "Asp.Versioning.Mvc": "7.1.0"
+        },
+        "runtime": {
+          "lib/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.8682.34631"
           }
         }
       },
@@ -208,6 +220,13 @@
       "sha512": "sha512-a7QO3D528vheXyFdn0oV0kcXv9YBiYdSyNZhYNNpwpQrfBKJTYPvRdfAwc4w98+nOZKgnlnmK3J+rSyh2rse1w==",
       "path": "asp.versioning.mvc/7.1.0",
       "hashPath": "asp.versioning.mvc.7.1.0.nupkg.sha512"
+    },
+    "Asp.Versioning.Mvc.ApiExplorer/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SEqEAeOXH4bP5g5IzdRarmNCrUxbk4pu10zxu57hgnHop7mXikwoDshE1cI4ZcxN7soKLGw2qOgLjJTIim5fiw==",
+      "path": "asp.versioning.mvc.apiexplorer/7.1.0",
+      "hashPath": "asp.versioning.mvc.apiexplorer.7.1.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.OpenApi/7.0.11": {
       "type": "package",

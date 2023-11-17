@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4D/RqCpMyl+7CCJPrm73K/0+Ovka49YVj91CuyXVWWff4gimurNKo4rCSzfHWv5nsPJu75aOLBMDlvZFq9H+9w==",
+  "dgSpecHash": "RPUqFQI54BH0BKOqgmMtk52+Xtfo598rI/rpZK+hemcB9prkhVAUFzdI8AdO0y4cvD9rlI9pjeiybrvQj0inMg==",
   "success": true,
   "projectFilePath": "/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/SportsNetCoreWebApiApp.csproj",
   "expectedPackageFiles": [
     "/Users/chacs/.nuget/packages/asp.versioning.abstractions/7.0.0/asp.versioning.abstractions.7.0.0.nupkg.sha512",
     "/Users/chacs/.nuget/packages/asp.versioning.http/7.1.0/asp.versioning.http.7.1.0.nupkg.sha512",
     "/Users/chacs/.nuget/packages/asp.versioning.mvc/7.1.0/asp.versioning.mvc.7.1.0.nupkg.sha512",
+    "/Users/chacs/.nuget/packages/asp.versioning.mvc.apiexplorer/7.1.0/asp.versioning.mvc.apiexplorer.7.1.0.nupkg.sha512",
     "/Users/chacs/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "/Users/chacs/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "/Users/chacs/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
