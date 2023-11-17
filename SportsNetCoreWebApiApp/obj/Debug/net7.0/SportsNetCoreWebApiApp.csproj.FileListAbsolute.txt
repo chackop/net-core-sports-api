@@ -34,3 +34,6 @@
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/SportsNetCoreWebApiApp.pdb
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/SportsNetCoreWebApiApp.genruntimeconfig.cache
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/ref/SportsNetCoreWebApiApp.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Abstractions.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Http.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Mvc.dll

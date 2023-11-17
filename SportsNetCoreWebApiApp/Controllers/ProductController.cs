@@ -2,14 +2,17 @@ using SportsNetCoreWebApiApp.API.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Asp.Versioning;
+
 
 namespace SportsNetCoreWebApiApp.Controllers
 {
-    // [ApiVersion("1.0")]
-    // [Route("v{v:apiVersion}/products")]
+
+    [ApiVersion("1.0")]
+    [Route("v{v:apiVersion}/products")]
     // [Route("products")]
     // [Route("[controller]")]
-    [Route("api/[controller]")]
+    // [Route("api/[controller]")]
     [ApiController]
     public class ProductsController : ControllerBase
     {
