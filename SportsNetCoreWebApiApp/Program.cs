@@ -49,6 +49,18 @@ builder.Services.AddDbContext<ShopContext>(options =>
     options.UseInMemoryDatabase("Shop");
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+    {
+        // builder.AllowAnyOrigin();
+
+        builder
+            .WithOrigins("https://localhost:7257")
+            .WithHeaders("X-API-Version");
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -65,6 +77,8 @@ else
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseCors();
 
 app.MapControllers();
 
