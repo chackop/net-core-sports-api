@@ -9,7 +9,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SportsNetCoreWebApiApp" expanded="True" selected="True" />
+          <Node name="SportsNetCoreWebApiApp" selected="True" />
         </State>
       </Pad>
     </Pads>
