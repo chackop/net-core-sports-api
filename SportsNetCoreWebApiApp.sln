@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsNetCoreWebApiApp", "SportsNetCoreWebApiApp/SportsNetCoreWebApiApp.csproj", "{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsNetCoreWebApiApp", "SportsNetCoreWebApiApp\SportsNetCoreWebApiApp.csproj", "{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsNetCoreUI", "SportsNetCoreUI\SportsNetCoreUI.csproj", "{C706AEAF-E26F-419D-95F7-11EB3500BB47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{442AC812-F4D6-4391-9A9A-F39EEA0BE43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C706AEAF-E26F-419D-95F7-11EB3500BB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C706AEAF-E26F-419D-95F7-11EB3500BB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C706AEAF-E26F-419D-95F7-11EB3500BB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C706AEAF-E26F-419D-95F7-11EB3500BB47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
