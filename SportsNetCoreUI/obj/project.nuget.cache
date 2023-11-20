@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TFPQJ2ITYQj4pmnwm+uWfOHv3/UHIgaQwdcre0pY/SJcWW+SxLuz0WzZ1Sr2KpQuk4HEup1DUG15s7aDXvqKzA==",
+  "dgSpecHash": "xDB/a6rlqqyx0os3XPwhJgXE1xuAb2X3Qlu5SAYQbZbKo11ZBEaEwkIlm3Z0QB7Ea3DHAXFN7jhypIBXq+FwxA==",
   "success": true,
   "projectFilePath": "/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreUI/SportsNetCoreUI.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "/Users/chacs/.nuget/packages/humanizer.core.zh-cn/2.14.1/humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "/Users/chacs/.nuget/packages/humanizer.core.zh-hans/2.14.1/humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "/Users/chacs/.nuget/packages/humanizer.core.zh-hant/2.14.1/humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "/Users/chacs/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.14/microsoft.aspnetcore.authentication.jwtbearer.7.0.14.nupkg.sha512",
     "/Users/chacs/.nuget/packages/microsoft.aspnetcore.cryptography.internal/7.0.14/microsoft.aspnetcore.cryptography.internal.7.0.14.nupkg.sha512",
     "/Users/chacs/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/7.0.14/microsoft.aspnetcore.cryptography.keyderivation.7.0.14.nupkg.sha512",
     "/Users/chacs/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/7.0.14/microsoft.aspnetcore.identity.entityframeworkcore.7.0.14.nupkg.sha512",

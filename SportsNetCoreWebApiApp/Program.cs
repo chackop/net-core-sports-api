@@ -46,6 +46,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ShopContext>(options =>
 {
+    // TODO: Migrate to Postgres
     options.UseInMemoryDatabase("Shop");
 });
 
