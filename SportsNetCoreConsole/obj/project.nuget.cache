@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JMo9pcE2nWpnh8Q24c/ug09xkhMq/Fxk37X8cG3jFWnYxZ6fTSF1Hf5j6p9/kiCgaB/VXfs6cBYWnFn5XPLBFQ==",
+  "dgSpecHash": "vakVpsYf/1ITKaLtjZy2lSwnx3fvTtaRalmm0kg1RLUJ2k9UOcywVHarnp1GKnza8wsfqvrO3+1ieTS1giNdeA==",
   "success": true,
   "projectFilePath": "/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreConsole/SportsNetCoreConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/chacs/.nuget/packages/identitymodel/6.2.0/identitymodel.6.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
