@@ -10,19 +10,19 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 
-// builder.Services.AddAuthentication("Bearer")
-//     .AddJwtBearer("Bearer", options =>
-//     {
-//         options.Authority = "https://localhost:5001";
+builder.Services.AddAuthentication("Bearer")
+    .AddJwtBearer("Bearer", options =>
+    {
+        options.Authority = "https://localhost:5001";
 
-//         options.Audience = "scope1";
+        options.Audience = "scope1";
 
-//         options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
-//         {
-//             ValidateAudience = false
-//         };
+        options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters()
+        {
+            ValidateAudience = false
+        };
 
-//     });
+    });
 
 builder.Services.AddApiVersioning(options =>
 {
@@ -76,6 +76,8 @@ else
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

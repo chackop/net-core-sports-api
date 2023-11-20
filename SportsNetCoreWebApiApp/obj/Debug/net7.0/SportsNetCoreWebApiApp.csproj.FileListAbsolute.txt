@@ -38,3 +38,10 @@
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/SportsNetCoreWebApiApp.genruntimeconfig.cache
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/obj/Debug/net7.0/ref/SportsNetCoreWebApiApp.dll
 /Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Asp.Versioning.Mvc.ApiExplorer.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/chacs/Documents/code/private/net-core-sports-api/SportsNetCoreWebApiApp/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
